@@ -2,7 +2,7 @@
 
   - ajouter la class slideContainer au header 
   - ajouter la class slider a une div contenant vos images
-
+<code>
     <div class="slideContainer">
         <div class="slider">
             <div><img class="" src="img/image1.jpg" alt="image1"></div>
@@ -10,7 +10,7 @@
             <div><img class="" src="img/image3.jpg" alt="image3"></div>
         </div>
     </div>
-
+</code>
 # secureForm.js
 
 
