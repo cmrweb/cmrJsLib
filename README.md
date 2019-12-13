@@ -4,13 +4,14 @@
   -  ajouter la class slider a une div contenant vos images
 
   - exemple :
-    <div class="slideContainer">
-        <div class="slider">
+  
+        <div class="slideContainer">
+          <div class="slider">
             <div><img class="" src="img/image1.jpg" alt="image1"></div>
             <div><img class="" src="img/image2.jpg" alt="image2"></div>
             <div><img class="" src="img/image3.jpg" alt="image3"></div>
+          </div>
         </div>
-    </div>
 
 # secureForm.js
 
