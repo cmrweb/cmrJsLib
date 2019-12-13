@@ -16,13 +16,13 @@
 
  -  charger bootstrap4
  -  ajouter la class
-  --  secureName = pour les champs de type nom prenom
-  --  mailSecure = pour les champs de tpe mail
-  --  passSecure pour les champs de type password
-  --  ageSecure = pour verifier si l'utilisateur est mineur
+   * secureName = pour les champs de type nom prenom
+   * mailSecure = pour les champs de tpe mail
+   * passSecure pour les champs de type password
+   *  ageSecure = pour verifier si l'utilisateur est mineur
 
 # slideContent.js
 
 
  -  appeler la fonction
-  --  slideContent("selecteur css", position de depart, delay d'execution, delay de transition)
+  * slideContent("selecteur css", position de depart, delay d'execution, delay de transition)
