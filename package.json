@@ -1,0 +1,19 @@
+{
+  "name": "cmrjs",
+  "version": "1.0.0",
+  "description": "lib js",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmrweb/cmrSlider.git"
+  },
+  "author": "cmrweb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cmrweb/cmrSlider/issues"
+  },
+  "homepage": "https://github.com/cmrweb/cmrSlider#readme"
+}
