@@ -1,4 +1,4 @@
-# cmrSlider.js
+# cmrSlide.js 
 
   -  ajouter la class slideContainer a une Balise 
   -  ajouter la class slider a une div contenant vos images
