@@ -1,3 +1,4 @@
+## npm i cmrweb/cmrJsLib
 # cmrSlide.js 
 
   -  ajouter la class slideContainer a une Balise 
